@@ -110,6 +110,7 @@ Engagement: Contact Form → Booking Tool → Live Chat → Newsletter → Revie
 Action: Complete Booking → Payment → Confirmation → Preparation Email
 Retention: Follow-up Email → Share Photos → Recommend → Book 
 
-
+Wireframe
 ![Frame 1](https://github.com/user-attachments/assets/1f8db0a4-f5f0-4752-b06b-5a0c7743c306)
-
+Mockup
+![Annotation 2024-12-13 095333](https://github.com/user-attachments/assets/37ae37c0-2939-4baf-a1da-0432e968ac7d)
