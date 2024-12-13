@@ -1,13 +1,22 @@
 # Mark-Thang
 Brutalism 
+
 Cinemagraphs
+
 Organic Shapes   
+
 Athletes 
+
 School Organizations 
+
 People from ages 14-25
+
 Moms looking for senior pictures 
+
 Middle aged photographers 
+
 Goal: User Books a Photography Session
+
 1. Awareness:
 Objective: Users discover the photography service and become aware of what is offered.
 
@@ -99,4 +108,8 @@ Awareness: Social Media → Blog Post → Ad → Word-of-mouth
 Exploration: Portfolio → Service Descriptions → Pricing Page → Testimonials → Blog
 Engagement: Contact Form → Booking Tool → Live Chat → Newsletter → Reviews
 Action: Complete Booking → Payment → Confirmation → Preparation Email
-Retention: Follow-up Email → Share Photos → Recommend → Book Again
+Retention: Follow-up Email → Share Photos → Recommend → Book 
+
+
+![Frame 1](https://github.com/user-attachments/assets/1f8db0a4-f5f0-4752-b06b-5a0c7743c306)
+
